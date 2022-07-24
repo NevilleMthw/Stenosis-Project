@@ -1,3 +1,5 @@
 Stenosis detection*
 .vscode
 output/
+test_images/
+train_images/
