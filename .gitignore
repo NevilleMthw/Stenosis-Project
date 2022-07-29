@@ -4,3 +4,4 @@ output/
 test_images/
 train_images/
 val_common_names.csv
+yolov3.weights
