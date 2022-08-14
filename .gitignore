@@ -10,3 +10,4 @@ requirements.txt
 Stenosis-5*
 Stenosis-7*
 yolov5s.pt
+model.h5
