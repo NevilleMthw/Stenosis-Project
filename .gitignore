@@ -3,11 +3,13 @@ Stenosis detection*
 output/
 test_images/
 train_images/
-val_common_names.csv
 yolov3.weights
+yolov4.h5
+yolov4.weights
 Stenosis-4*
 requirements.txt
 Stenosis-5*
 Stenosis-7*
 yolov5s.pt
 model.h5
+output2/
