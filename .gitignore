@@ -1,6 +1,8 @@
 Stenosis detection*
 .vscode
 output/
+output2/
+output3/
 test_images/
 train_images/
 yolov3.weights
@@ -11,7 +13,6 @@ Stenosis-5*
 Stenosis-7*
 yolov5s.pt
 *.h5
-output2/
 test_xmls/
 train_xmls/
 val_xmls/
