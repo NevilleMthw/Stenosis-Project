@@ -16,3 +16,4 @@ yolov5s.pt
 test_xmls/
 train_xmls/
 val_xmls/
+Stenosis_224x224/
